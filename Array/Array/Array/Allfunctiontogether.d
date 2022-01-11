@@ -1,0 +1,1 @@
+Allfunctiontogether.d: ../Allfunctiontogether.cpp
